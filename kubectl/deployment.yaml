@@ -4,7 +4,6 @@ metadata:
   name: streamlit
   labels:
     app: streamlit
-  namespace: lancelot-marti
   annotations:
     monitoring: "true"
 spec:
