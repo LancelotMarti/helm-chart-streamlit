@@ -11,4 +11,14 @@ entries:
     urls:
     - https://github.com/LancelotMarti/helm-chart-streamlit/releases/download/streamlit-chart-0.1.0/streamlit-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-11T11:59:36.657809164Z"
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-04-11T14:03:00.902931909Z"
+    description: An example of helm chart to deploy a streamlit app
+    digest: 5e7d237014b9cf8a6b02ca579075c98d093c64cb494250c51d9923793d23bc16
+    name: streamlit-chart
+    type: application
+    urls:
+    - https://github.com/LancelotMarti/helm-chart-streamlit/releases/download/streamlit-chart-0.0.1/streamlit-chart-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-04-11T14:03:00.902945705Z"
