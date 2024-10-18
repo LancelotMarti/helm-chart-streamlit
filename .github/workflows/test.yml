@@ -19,8 +19,8 @@ jobs:
       env:
         SSH_DEPLOY_KEY: ${{ secrets.TOKEN }}
       with:
-        source-directory: test/charts/example
+        source-directory: test/charts/
         destination-github-username: 'LancelotMarti'
         destination-repository-name: 'sandbox'
         target-branch: main
-        target-directory: charts/example
+        target-directory: charts/
