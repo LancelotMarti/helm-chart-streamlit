@@ -21,6 +21,6 @@ jobs:
       with:
         source-directory: test/charts/
         destination-github-username: 'LancelotMarti'
-        destination-repository-name: 'helm-charts'
-        target-branch: master
+        destination-repository-name: 'sandbox'
+        target-branch: main
         target-directory: charts/
