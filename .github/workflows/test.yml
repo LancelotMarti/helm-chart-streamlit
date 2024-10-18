@@ -3,7 +3,7 @@ name: Push Charts to Another Repo
 on: 
   push: 
     branches:
-    - release/**
+    - main
     - hotfix/**
 
 jobs:
